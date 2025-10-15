@@ -1,0 +1,24 @@
+# Ignore specific Python files
+flight.py
+2.py
+3.py
+4.py
+PyWhatKit_DB.txt
+
+
+# Ignore entire folders
+__pycache__/
+data/
+logs/
+
+# Ignore all .pyc compiled files
+*.pyc
+
+# Ignore environment folders
+venv/
+.env/
+
+# Ignore temporary files
+*.log
+*.bak
+*.zip
